@@ -1,26 +1,14 @@
 {
-  "id": "com.libera2.app",
-  "name": "LIBERA2 - Tu camino sin tabaco",
-  "short_name": "LIBERA2",
-  "description": "Una aplicación diseñada para ayudarte a dejar de fumar mediante fases progresivas, seguimiento de salud y minijuegos de distracción.",
-  "start_url": "./index.html",
-  "scope": "./",
-  "display": "standalone",
   "background_color": "#07121f",
-  "theme_color": "#4ecdc4",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "LIBERA2 - Tu camino sin tabaco",
   "orientation": "portrait",
-  "icons": [
-    {
-      "src": "./icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any"
-    },
-    {
-      "src": "./icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any"
-    }
-  ]
+  "scope": "./",
+  "short_name": "LIBERA2",
+  "start_url": "./index.html",
+  "theme_color": "#4ecdc4",
+  "id": "com.libera2.app",
+  "description": "App para dejar de fumar con seguimiento y salud.",
+  "lang": "es"
 }
